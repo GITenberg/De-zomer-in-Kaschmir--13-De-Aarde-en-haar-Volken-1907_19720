@@ -1,0 +1,25 @@
+_repo: De-zomer-in-Kaschmir--13-De-Aarde-en-haar-Volken-1907_19720
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michel, F.
+    gutenberg_agent_id: '8833'
+    url: http://www.gutenberg.org/2009/agents/8833
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19720'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jammu and Kashmir (India) -- Description and travel'
+title: "De zomer in Kaschmir\r\nDe Aarde en haar Volken, 1907"
+url: http://www.gutenberg.org/ebooks/19720
